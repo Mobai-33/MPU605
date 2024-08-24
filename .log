@@ -1,0 +1,39 @@
+!SESSION 2024-08-24 15:14:44.335 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-24 15:17:06.569
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-24 15:17:06.573
+!MESSAGE Log4j2 initialized with config file E:\daima\CubeIDE_Code\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-24 15:17:10.931
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-24 16:04:42.439
+!MESSAGE Indexed '00_103_demo' (17 sources, 78 headers) in 2.71 sec: 3,643 declarations; 13,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-24 18:08:25.106
+!MESSAGE Indexed '00_103_demo' (20 sources, 79 headers) in 1.05 sec: 3,652 declarations; 13,440 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-08-24 18:08:47.727
+!MESSAGE Indexed '00_103_demo' (20 sources, 79 headers) in 1.17 sec: 3,652 declarations; 13,440 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2024-08-24 19:40:19.404 -----------------------------------------------
+eclipse.buildId=Version 1.16.0
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-08-24 21:01:12.842
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-08-24 21:01:12.844
+!MESSAGE Log4j2 initialized with config file E:\daima\CubeIDE_Code\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-08-24 21:01:19.188
+!MESSAGE Started RMI Server, listening on port 41337
